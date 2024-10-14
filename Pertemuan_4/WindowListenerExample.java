@@ -73,3 +73,4 @@ public class WindowListenerExample {
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // agar jendela benar benar tertutup
 	}
 }
+
